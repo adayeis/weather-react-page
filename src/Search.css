@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.Search form {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 4fr 2fr;
+  gap: 5px;
+  margin: 10px 0;
+}
+
+.Search input {
+  width: 100%;
+}
+
+.Search li {
+  margin: 5px 0;
+  list-style-type: none;
+}
+
+.Search loader {
+  width: 100%;
+}
