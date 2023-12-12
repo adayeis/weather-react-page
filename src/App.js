@@ -10,6 +10,7 @@ function App() {
         <Weather city="Paris" />
         <Weather city="London" />
         <Weather city="Zurich" />
+        <Weather city="Oslo" />
       </header>
     </div>
   );
