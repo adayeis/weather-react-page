@@ -8,3 +8,23 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.App footer {
+  position: fixed;
+  bottom: 0;
+  padding: 10px;
+  font-size: 12px;
+  font-family: monospace;
+}
+
+.App footer span {
+  color: aliceblue;
+  font-weight: bolder;
+}
+
+.App footer a {
+  text-decoration-line: underline;
+  text-underline-offset: 5px;
+  color: aliceblue;
+  font-weight: bolder;
+}
